@@ -3,7 +3,7 @@ title: "Event 2"
 date: "2025-11-15"
 weight: 2
 chapter: false
-pre: " <b> 4.2. </b> "
+pre: " <b> 4.2. </b>"
 ---
 
 # Bài thu hoạch “AWS Cloud Mastery Series #1”
