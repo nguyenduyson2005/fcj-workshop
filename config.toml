@@ -1,5 +1,4 @@
 baseURL = "https://nguyenduyson2005.github.io/fcj-workshop/"
-relativeURLs = false
 canonifyURLs = true
 
 # Change the default theme to be use when building the site with Hugo
